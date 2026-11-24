@@ -5,6 +5,9 @@ by **Carles Aliern Fons**, tutored by Professor Elisa Alòs.
 
 *The ATM Implied Volatility Skew under the Heston Model: Decomposition-Formula Approximations versus S&P 500 Options*
 
+> **Status: IN PROGRESS.** The thesis PDF in `Thesis/` is a working version, not the final one.
+> Content and results may change before the final submission (3 Dec 2026).
+
 ## Contents
 
 | Folder | What it contains | Thesis |
